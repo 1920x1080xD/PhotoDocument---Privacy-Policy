@@ -33,7 +33,7 @@ Protection Regulation) от 27 апреля 2016 года (далее "GDRP").
 Пользователь присоединяется к такому соглашению и не имеет права вносить
 и/или требовать внесения в него каких-либо изменений или дополнений.
 Пользователь может ознакомиться с условиями Пользовательского соглашения
-по следующей ссылке: https://github.com/1920x1080xD/PhotoDocument---PrivacyPolicy/blob/main/Privacy%20Policy.md.
+по следующей ссылке: [https://github.com/1920x1080xD/PhotoDocument---PrivacyPolicy/blob/main/Privacy%20Policy.md.](https://github.com/1920x1080xD/PhotoDocument---Privacy-Policy/blob/main/Privacy%20policy.pdf)
 "Правообладатель" означает следующее лицо, которому принадлежат
 исключительные права владения Мобильным приложением
 ________
