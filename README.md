@@ -1,12 +1,17 @@
 Политика конфиденциальности / Privacy Policy.
 
-[https://www.rustore.ru/catalog/app/com.example.photodocument
+https://www.rustore.ru/catalog/app/com.example.photodocument
 
-https://www.rustore.ru/catalog/app/com.example.photodocumentPRO](https://www.rustore.ru/catalog/developer/332600de)
+https://www.rustore.ru/catalog/app/com.example.photodocumentPRO
+
+https://www.rustore.ru/catalog/app/com.tiacorporation.tianotepad
+
+https://www.rustore.ru/catalog/app/com.tiacorporation.tianotepadpremium
+
 
 Дата вступления в силу: [25.01.2023]
 
-Дата обновления: [23.12.2024]
+Дата обновления: [25.03.2025]
 
 Приложения компании T_I_A стремятся защитить вашу конфиденциальность. Наша политика конфиденциальности объясняет, как мы собираем, используем и защищаем вашу информацию при использовании приложений.
 
@@ -43,4 +48,4 @@ https://www.rustore.ru/catalog/app/com.example.photodocumentPRO](https://www.rus
 
 Если у вас есть какие-либо вопросы или предложения относительно нашей политики конфиденциальности или обработки данных, пожалуйста, свяжитесь с нами по адресу jmreport00@gmail.com].
 
-При использовании приложений "Фото Документы PRO" и "Фото документы LITE", вы соглашаетесь с нашей политикой конфиденциальности. Благодарим вас за доверие и использование наших приложений.
+При использовании приложений "Фото Документы PRO" и "Фото документы LITE" и "TIA Notepad", вы соглашаетесь с нашей политикой конфиденциальности. Благодарим вас за доверие и использование наших приложений.
